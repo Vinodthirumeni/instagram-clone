@@ -102,3 +102,4 @@ DATABASE & DEPLOYMENT
 	> firebase deploy
 
 Note: npm i firebase (If not working try this and continue npm cache clean --force)
+Live Link : https://instagram-clone-react-5b4eb.web.app
