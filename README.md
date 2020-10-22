@@ -79,6 +79,7 @@ DELETE UNWANTED STUFFS FROM PROJECT FOLDER : Delete unwanted files and thier dep
 delete app.test.js,logo.svg,setuptests.js and delete that dependencies in App.js as well
 
 3rd PARTY PLUGIN
+	
 	Install Material UI(For icons and components)
 		npm install @material-ui/core
 		npm install @material-ui/icons
