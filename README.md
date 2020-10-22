@@ -67,8 +67,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
-
-
 PROJECT NAME : Instagram Clone
 
 TOOLS USED : ReactJs,Material UI,Instagram embed,Firebase
@@ -85,7 +83,7 @@ delete app.test.js,logo.svg,setuptests.js and delete that dependencies in App.js
 		npm install @material-ui/icons
 
 	Install Instagram embed(For screen fillings)
-	npm i react-instagram-embed
+		npm i react-instagram-embed
 
 DATABASE & DEPLOYMENT
 	> npm i firebase
